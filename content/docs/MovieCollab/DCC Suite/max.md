@@ -1,7 +1,7 @@
 +++
 title = 'Max'
 date = 2024-01-19T13:26:29+05:30
-draft = true
+draft = false
 +++
 
 1. Copy the `ENU` Folder to your 3DS Max `ENU` Directory inside of `AppData` which can be found 

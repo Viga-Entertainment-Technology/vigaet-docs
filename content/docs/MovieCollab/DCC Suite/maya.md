@@ -1,7 +1,7 @@
 +++
 title = 'Maya'
 date = 2024-01-19T13:26:29+05:30
-draft = true
+draft = false
 +++
 
 1. Copy the `menuCollab.py` to startup folder inside of your maya's preference folder under `startup` script folder.

@@ -1,7 +1,7 @@
 +++
 title = 'Houdini'
 date = 2024-01-19T13:26:29+05:30
-draft = true
+draft = false
 +++
 
 1. Copy `MovieCollab.shelf` file to your houdini's preference folder under `toolbar`
