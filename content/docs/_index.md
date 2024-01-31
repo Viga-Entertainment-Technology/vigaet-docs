@@ -4,4 +4,4 @@ date = 2024-01-19T13:15:36+05:30
 draft = false
 +++
 
-Index page for docs
+Welcome to documentations of VigaET Product line. Kindly use sidebar to navigate to the desired document.

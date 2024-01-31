@@ -10,3 +10,5 @@ weight = 2
 ![Alt text](/MovieCollab/MCStandalone.png)
 
 - To turn on the server just toggle Run Server and check `logs` tabs to see if the server has started or check the status bar of the window.
+
+The configurations of Application are saved in `~Documents\Movie Collab\WindowsApplication`
