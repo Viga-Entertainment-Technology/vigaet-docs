@@ -14,8 +14,8 @@ A total solution for project management with special tracking and managing abili
 {{< cards >}}
   {{< card link="docs/moviecolab/" title="Movie Collab Web" image="/MovieCollab/MovieCollabWeb.png" subtitle="Get started with Movie Collab Web Client and understand its working." >}}
   {{< card link="/" title="Movie Collab - Script Viz" image="/MovieCollab/MovieCollabWeb.png" subtitle="Take a look at our AI based script generator enables team to get a head start with pr-production." >}}
-  {{< card link="docs/moviecolab/desktop-application/" title="Standalone Application" image="/MovieCollab/MCStandalone.png" subtitle="Standalone application lets you configure the movie collab suite and enables smart launch feature on your machine" >}}
-  {{< card link="docs/moviecolab/dcc-suite/" title="Movie Collab DCC Suite" image="/MovieCollab/Plugin.png" subtitle="Get the functionality of Movie Collab into your DCC Suite" method="Crop" >}}
+  {{< card link="docs/moviecolab/desktop-client/" title="Desktop Client" image="/MovieCollab/MCStandalonev2.png" subtitle="MovieColab Desktop Client packed with power of Asset Submitter, Shot Submitter, Session Logger, Smart launch & more." >}}
+  {{< card link="docs/moviecolab/desktop-client/dcc-suite/" title="Movie Collab DCC Suite" image="/MovieCollab/Plugin.png" subtitle="Get the functionality of Movie Collab into your DCC Suite" method="Crop" >}}
 {{< /cards >}}
 
 ### Other Products

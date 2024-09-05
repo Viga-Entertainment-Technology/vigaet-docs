@@ -5,7 +5,7 @@ prev: docs/first-page
 next: docs/folder/test.md
 sidebar:
   open: true
-weights: 3
+weights: 2
 ---
 
 Take a look at [Feature Support](featuresupport) to check if the feature your looking for is supported in particular dcc.
